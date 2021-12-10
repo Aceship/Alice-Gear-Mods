@@ -22,5 +22,7 @@ Configuration Manager - https://github.com/BepInEx/BepInEx.ConfigurationManager
  
 ## Important Notes
 tried using it both in Singleplayer and multiplayer (but not with strangers)
+
 While some is usable in multiplayer, it might not advised to use mod with people you dont know
+
 supposedly there's no `cheating` mod , but idk if it is or not (since its still a mod)
