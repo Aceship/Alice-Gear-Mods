@@ -1,6 +1,8 @@
 # Alice-Gear-Mods
 Some collection of alice gear mod i made
 
+mod only for PC version
+
 ## Things you need
 ### Must 
 Bepinex https://github.com/BepInEx/BepInEx
